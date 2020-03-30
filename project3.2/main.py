@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def gauss_addition(list):
     # TotalSums is to keep track of the amount of times numbers were added
     totalSums = 0
